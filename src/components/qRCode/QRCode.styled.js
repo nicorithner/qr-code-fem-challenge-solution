@@ -4,6 +4,16 @@ export const Wrapper = styled.section`
   width: 100%;
   min-height: 100vh;
   background-color: hsl(212, 45%, 89%);
+  text-align: center;
+  padding: 2rem;
+`;
+
+export const QRCodeTitle = styled.h1`
+  color: hsl(218, 44%, 22%);
+  font-weight: 800;
+  font-size: 2rem;
+  margin-left: auto;
+  margin-right: auto;
 `;
 
 export const QRCodeWrapper = styled.figure`

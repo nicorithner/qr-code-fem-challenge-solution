@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/Coding-Gymnasium/qr-code-fem-challenge-solution/static/js/main.2bdd067b.js",
-    "static/js/787.cd319a48.chunk.js": "/Coding-Gymnasium/qr-code-fem-challenge-solution/static/js/787.cd319a48.chunk.js",
-    "index.html": "/Coding-Gymnasium/qr-code-fem-challenge-solution/index.html",
-    "main.2bdd067b.js.map": "/Coding-Gymnasium/qr-code-fem-challenge-solution/static/js/main.2bdd067b.js.map",
-    "787.cd319a48.chunk.js.map": "/Coding-Gymnasium/qr-code-fem-challenge-solution/static/js/787.cd319a48.chunk.js.map"
+    "main.js": "/static/js/main.5d8a6a14.js",
+    "static/js/787.cd319a48.chunk.js": "/static/js/787.cd319a48.chunk.js",
+    "index.html": "/index.html",
+    "main.5d8a6a14.js.map": "/static/js/main.5d8a6a14.js.map",
+    "787.cd319a48.chunk.js.map": "/static/js/787.cd319a48.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.2bdd067b.js"
+    "static/js/main.5d8a6a14.js"
   ]
 }

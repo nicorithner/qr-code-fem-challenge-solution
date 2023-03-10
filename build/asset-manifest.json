@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/qr-code-fem-challenge-solution/static/js/main.8bdfee3f.js",
+    "static/js/787.cd319a48.chunk.js": "/qr-code-fem-challenge-solution/static/js/787.cd319a48.chunk.js",
+    "index.html": "/qr-code-fem-challenge-solution/index.html",
+    "main.8bdfee3f.js.map": "/qr-code-fem-challenge-solution/static/js/main.8bdfee3f.js.map",
+    "787.cd319a48.chunk.js.map": "/qr-code-fem-challenge-solution/static/js/787.cd319a48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8bdfee3f.js"
+  ]
+}

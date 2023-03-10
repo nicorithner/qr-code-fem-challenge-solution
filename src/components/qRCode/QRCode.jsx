@@ -7,6 +7,7 @@ import {
   QRCodeTitle,
   Wrapper,
 } from "./QRCode.styled";
+import qRImage from '../../image-qr-code.png'
 
 export default function QRCode() {
   return (
@@ -14,7 +15,7 @@ export default function QRCode() {
       <Wrapper>
         <QRCodeTitle>QR-Code FE Mentor Exercise</QRCodeTitle>
         <QRCodeWrapper>
-          <QRCodeImage src="image-qr-code.png" alt="qr code image"/>
+          <QRCodeImage src={qRImage} alt="qr code image"/>
           <DescriptionWrapper>
             <Title>Improve your front-end skills by building projects</Title>
             <Description>

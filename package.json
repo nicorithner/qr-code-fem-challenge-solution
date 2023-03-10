@@ -1,5 +1,6 @@
 {
   "name": "fe-mentor-chllngs-components",
+  "homepage": "https://nicorithner.github.io/qr-code-fem-challenge-solution",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

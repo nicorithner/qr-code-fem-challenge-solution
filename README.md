@@ -2,6 +2,10 @@
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
+## View Deployed Version
+
+[QR Code Page](https://nicorithner.github.io/qr-code-fem-challenge-solution/)
+
 ### Desktop Preview
 
 <div align='center'>
